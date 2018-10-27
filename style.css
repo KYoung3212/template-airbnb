@@ -103,7 +103,6 @@ kbd {
 	background-color: #ddd;
 	padding: 4px 6px;
 	border-radius: 2px;
-	color: ;
 }
 
 address {
@@ -153,8 +152,8 @@ button:focus {
 	font-weight: 700;
 	letter-spacing: 1.5px;
 	padding: 12px 35px;
-	-webkit-transition: all 0.5s;
-	transition: all 0.5s;
+	/* -webkit-transition: all 0.5s;
+	transition: all 0.5s; */
 }
 
 .mu-primary-btn:hover,
@@ -352,8 +351,8 @@ button:focus {
 	right: 15%;
 	top: 55px;
 	width: 48px;
-	-webkit-transition: color 0.3s ease-in-out 0s;
-	transition: color 0.3s ease-in-out 0s;
+	/* -webkit-transition: color 0.3s ease-in-out 0s;
+	transition: color 0.3s ease-in-out 0s; */
 }
 
 .mu-menu-close-btn .mu-line {
@@ -447,9 +446,9 @@ button:focus {
 	text-align: center;
 	text-transform: uppercase;
 	margin-bottom: 10px;
-	-webkit-transition: all 0.5s;
+	/* -webkit-transition: all 0.5s;
 	-o-transition: all 0.5s;
-	transition: all 0.5s;
+	transition: all 0.5s; */
 }
 
 /*--------------------*/
