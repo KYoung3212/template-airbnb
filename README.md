@@ -33,5 +33,5 @@ You can test it on my [live demo].
 I have always been a person to continutally want to improve any of my projects since there is always room for improvement.  If you would like to contribute please reach out via [email] or you can reach me directly at my [portfolio]. Thanks!
 
    [live demo]: <https://kevin-young.us/airbnb-template/>
-   [email]: <http://kevin.young3212@gmail.com>
+   [email]: <kevin.young3212@gmail.com>
    [portfolio]: <https://kevin-young.us>
