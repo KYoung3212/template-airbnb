@@ -5,9 +5,9 @@ The Student Grade Table (SGT) is a web/mobile application that allows users to m
 You can test it on my [live demo]. 
 
 ## Features
-<img src="https://github.com/KYoung3212/portfolio/img/slides/airbnb-0.jpg" width="320">
-<img src="https://github.com/KYoung3212/portfolio/img/slides/airbnb-1.jpg" width="320">
-<img src="https://github.com/KYoung3212/portfolio/img/slides/airbnb-2.jpg" width="320">
+<img src="https://github.com/KYoung3212/portfolio/blob/master/img/slides/airbnb-0.jpg" width="320">
+<img src="https://github.com/KYoung3212/portfolio/blob/master/img/slides/airbnb-1.jpg" width="320">
+<img src="https://github.com/KYoung3212/portfolio/blob/master/img/slides/airbnb-2.jpg" width="320">
 
 
 ## Features
