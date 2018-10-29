@@ -1,6 +1,6 @@
-# Student Grade Table
+# Airbnb Template (Front-end)
 
-The Student Grade Table (SGT) is a web/mobile application that allows users to manage students and their respective grades utiliizng a CRUD (Create, Read, Update, Delete) approach. SGT uses Bootstrap 4 for a modern design, data validation, and mobile responsiveness.  JavaScript is used for front-end functionality, PHP 7 for back-end APIs, and MySQL for database storage.
+The Airbnb Website Template for the mobile application displays my ability to be able to create a website for a product from scratch.  Making sure to focus on a modern, sleek, and user-friendly experience, the Airbnb Website tries to grab the users attention to download the mobile application.
 
 You can test it on my [live demo]. 
 
@@ -12,27 +12,26 @@ You can test it on my [live demo].
 
 ## Features
 
-  - Create new students, read the data of about a thousand entries, update any student's name, course name, and/or grade, and delete any entry
-  - Responsive design allows for ease of usage from both desktop and mobile access
-  - Data Validation to make sure the user enters a valid input to add to be stored in to the student grade table. This also proteects against any injection that a user may try to implement to the SGT database.
-  - Find students, courses, and class grade with the search function which includes the ability to search for multiple terms
+  - A modern/user-friendly front-end site displaying the new Airbnb Mobile Application.
+  - Responsive design allows for ease of usage from both desktop and mobile access.
+  - Responsive Slick Carousel, showing the mobile application screenshots to the user.
+  - Video access of the application to show the user a hands-on walkthrough of the application.
+  - Contact form with PHP/Backend setup for the user to easily contact the company with any questions.
 
 ## Planned Features
-  - Multiple number of pages, with 20-30 entries per page to keep larger lists more organized.
-  - Login system for both teachers and students. Teachers will be able to create, read, update, and delete respective assigned students. Students will only be able to read their own respective entries similar to a report card.
-  - Different styled themes for the user to customize to their liking.
+  - Integrate Javascript to allow the user to click on the routing links to be able to fully download the application.
+  - Customizable theme options for the user to choose from based on their preferred style.
+  - Condensing load times of the web page, improving infinite scroll, image sizing, and pre-load. 
 
 ## Personal Insight
-> The Student Grade Table is a personal achievement of mine because it was my first fully-functional project that utilizes both the front and back end.  By building the SGT from scratch, I was able to fully embrace how the front and back end are connected, finding ways to increase speed, efficeincy, and functionality. 
+> The Airbnb Mobile App Template is a personal achievement of mine because I was able to build the front-end site of a product to grab the eye of the user. Making sure to keep everything looking modern, I was able to create a site that could potentially pass as an official Airbnb Website.  
 
-> At first, the Student Grade Table was meant broaden my understading of API interaction. Soon after, I learned how to create and migrate my own external API and database.
-
-> After fully implementing my own database, I added more features to create a better user experience. Some of these included a search bar, utilizing PHP calls to filter results, data validation, to keep consistent data entry management, and an update feature, to allow a user to customize any entries of their choice.
+> After fully implementing all front-end features, I made a few changes to make the user experience a bit smoother, for example with load times. 
 
 
 ## Contributions
 I have always been a person to continutally want to improve any of my projects since there is always room for improvement.  If you would like to contribute please reach out via [email] or you can reach me directly at my [portfolio]. Thanks!
 
-   [live demo]: <https://kevin-young.us/SGT/>
+   [live demo]: <https://kevin-young.us/airbnb-template/>
    [email]: <http://kevin.young3212@gmail.com>
    [portfolio]: <https://kevin-young.us>
