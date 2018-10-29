@@ -4,7 +4,7 @@ The Airbnb Website Template for the mobile application displays my ability to be
 
 You can test it on my [live demo]. 
 
-## Features
+## Screenshots
 <img src="https://github.com/KYoung3212/portfolio/blob/master/img/slides/airbnb-0.jpg" width="320">
 <img src="https://github.com/KYoung3212/portfolio/blob/master/img/slides/airbnb-1.jpg" width="320">
 <img src="https://github.com/KYoung3212/portfolio/blob/master/img/slides/airbnb-2.jpg" width="320">
